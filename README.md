@@ -1,4 +1,4 @@
-# Git Repository Template
+# Android application for an Arduino-based humidity analyzer
 
 Android application for an Arduino-based humidity analyzer
 
